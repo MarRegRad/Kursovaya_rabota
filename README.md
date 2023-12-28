@@ -1,1 +1,5 @@
-# Kursovaya_rabota
+
+Figure_checkers - изображения шашек
+Kurs_Shashki.py - основной код шашек
+shifr.py - файл с шифрованием/дешифрованием
+Запись зашифрованных данных заносится в login.txt
